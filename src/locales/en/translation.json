@@ -1,0 +1,105 @@
+{
+  "metaTitle": "Avrasya | Global Leader in Business Solutions & Sustainable Projects",
+  "metaDescription": "Avrasya empowers businesses in the Balkans and North Africa with integrated solutions for global success. We specialize in sustainable growth strategies and international project management.",
+  "header": {
+    "contactButton": "Contact us"
+  },
+  "hero": {
+    "title": "Avrasya",
+    "subtitle": "A global leader in integrated <span>business solutions</span>",
+    "details": "We helps clients in the Balkans and North Africa achieve lasting international success. We also serve as a global extension for companies launching projects in these regions, offering specialized solutions that drive growth and sustainability."
+  },
+  "story": {
+    "title": "Our Story",
+    "subtitle": "Avrasya International was founded to foster entrepreneurship and boost economic and social development through comprehensive services focused on sustainability and growth.",
+    "desc": "Our mission is to empower communities worldwide by delivering innovative solutions and top-tier services tailored to our clients' diverse needs.",
+    "details": "Avrasya International is steadily expanding its global reach, aiming to become the trusted and go-to partner for organizations across various sectors, emphasizing innovation and strategic collaborations. We provide commercial and investment solutions that help clients achieve their goals while contributing to the progress and development of communities."
+  },
+  "values": {
+    "title": "Our values",
+    "items": [
+      {
+        "icon": "/assets/hand.svg",
+        "title": "Solutions",
+        "desc": "We provide commercial and investment solutions that contribute to the realization of customer aspirations and the renaissance and development of societies."
+      },
+      {
+        "icon": "/assets/stock.svg",
+        "title": "Initiating Innovation",
+        "desc": "We encourage creative thinking and launch initiatives that transform new investment ideas into productive, sustainable projects."
+      },
+      {
+        "icon": "/assets/package.svg",
+        "title": "Empowering Communities",
+        "desc": "We improve lives by providing individuals and communities with the resources and opportunities they need to thrive, now and in the future."
+      },
+      {
+        "icon": "/assets/puzzle.svg",
+        "title": "Building Partnerships",
+        "desc": "We actively seek partnerships with entrepreneurs, investors, and innovators to create shared success stories."
+      }
+    ]
+  },
+  "services": {
+    "title": "Our Core Services",
+    "main": {
+      "title": "Sustainable Project Management",
+      "items": [
+        "Plan and implement projects that meet sustainability standards.",
+        "Consulting for the development of social and economic projects.",
+        "Supporting humanitarian initiatives with innovative concepts."
+      ]
+    },
+    "commerce": {
+      "title": "Trade and Business Solutions",
+      "items": [
+        "We streamline procurement and supply chains",
+        "Provide comprehensive logistics solutions (including shipping and warehousing)",
+        "Help companies navigate legal and regulatory requirements."
+      ]
+    },
+    "investment": {
+      "title": "Investment Consulting",
+      "items": [
+        "We analyze markets to identify promising investment opportunities.",
+        "Develop strategies for portfolio diversification and sustainability.",
+        "Guide companies in strategic planning for optimal returns on investment."
+      ]
+    },
+    "innovation": {
+      "title": "Innovation and Technology",
+      "items": [
+        "We leverage cutting-edge technologies like AI to optimize operations",
+        "Deliver innovative digital solutions that boost performance and efficiency",
+        "Develop software and digital infrastructure for businesses."
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "desc": "Get in touch with us and start your journey to impact",
+    "details": "We are here to connect, collaborate and provide support. If you have questions, feedback or concerns about our programmes and projects, we'd love to hear from you. Reach out to us through the available channels, and let's work together to make a positive impact.",
+    "info": {
+      "location": {
+        "title": "Address",
+        "desc": "MALL OF ISTANBUL,THE OFFICE NO: 7 E IÇ KAPI NO: 181 BAŞAKŞEHIR / ISTANBUL"
+      },
+      "email": {
+        "title": "Email address",
+        "desc": "info@taqat.qa"
+      },
+      "details": {
+        "phone": {
+          "office": "+90 212 613 11 11",
+          "officeTit": "Office Number",
+          "mobile": "+90 555 691 11 10",
+          "mobileTit": "Mobile Number"
+        },
+        "title": "Phone number"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "Copyright &copy; 2025 - All rights <br /> reserved."
+  }
+}

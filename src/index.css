@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html {
+  @apply scroll-smooth;
+}
+body {
+  font-family: "Almarai", serif;
+  color: #0a0a0a;
+}
+.main-container {
+  @apply max-w-[1920px];
+  @apply mx-auto;
+}
+.main-container_small {
+  @apply max-w-[1400px];
+  @apply mx-auto;
+}

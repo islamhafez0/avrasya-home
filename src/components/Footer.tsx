@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
+import { Facebook, Instagram, Linkedin } from "lucide-react";
 import { useTranslation } from "react-i18next";
 
 const Footer = () => {
@@ -14,7 +14,7 @@ const Footer = () => {
       href: "https://www.linkedin.com/company/taqat-qa",
     },
     {
-      icon: <Twitter className="w-8 h-8" />,
+      icon: <Twitter />,
       label: "Twitter",
       href: "https://x.com/taqat4business",
     },
@@ -66,3 +66,20 @@ const Footer = () => {
 };
 
 export default Footer;
+const Twitter = () => {
+  return (
+    <svg
+      width="33"
+      height="32"
+      viewBox="0 0 33 32"
+      fill="currentColor"
+      xmlns="http://www.w3.org/2000/svg"
+      className="w-8 h-8 transition-all hover:text-primary"
+    >
+      <path
+        d="M8.99845 4H4.90938L13.8428 13.9402L3.33333 27.4667H11.5621L18.0073 19.263L25.3819 27.4667H29.4734L19.9183 16.8345L30 4H21.5623L15.7365 11.4985L8.99845 4ZM10.4336 25.0839H8.16778L22.7935 6.25761H25.2249L10.4336 25.0839Z"
+        fill="currentColor"
+      />
+    </svg>
+  );
+};
